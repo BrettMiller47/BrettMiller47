@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My GitHub 🟩 may not show it, but I've been interested and actively engaged in coding for years!  My coding origin story began with some R and Python back in 2019 while I was at Penn State.  After joining an Operations Leadership Program with my Supply Chain & Information Systems degree, I was amazed at the speed reducing power of VBA.  More recently I started focusing on coding full-time and graduated the University of Denver's coding bootcamp for full-stack web development.  I'm excited to see what I can build next!
+My GitHub 🟩 may not show it, but I've been actively engaged in programming for years!  My coding origin story began with some R and Python back in 2019 while I was at Penn State.  After joining an Operations Leadership Program with my Supply Chain & Information Systems degree, I was amazed at the speed reducing power of VBA.  More recently I started focusing on coding full-time and graduated the University of Denver's coding bootcamp for full-stack web development.  I'm excited to see what I can build next!
 
 🔭 Current Project -- Start/Sit deficit tracker for ESPN fantasy football leagues. Check it out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
 
