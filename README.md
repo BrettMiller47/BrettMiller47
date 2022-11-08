@@ -8,6 +8,8 @@ My GitHub 🟩 may not show it, but I've been actively engaged in programming fo
 
 📫 How to reach me: [brett.miller47@yahoo.com](mailto:brett.miller47@yahoo.com)
 
+Personal site: [brettmiller47.github.io/portfolio](brettmiller47.github.io/portfolio)
+
 <!--
 **BrettMiller47/BrettMiller47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
