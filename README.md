@@ -1,3 +1,5 @@
+(https://th.bing.com/th/id/OIP.vfkIBe1yNJGd4Hp5syB6xAHaEt?pid=ImgDet&rs=1)
+
 ### Hi there 👋
 
 My GitHub 🟩 may not show it, but I've been actively engaged in programming for years!  My coding origin story began with some R and Python back in 2019 while I was at Penn State.  After joining an Operations Leadership Program with my Supply Chain & Information Systems degree, I was amazed at the speed reducing power of VBA.  More recently I started focusing on coding full-time and graduated the University of Denver's coding bootcamp for full-stack web development.  I'm excited to see what I can build next!
