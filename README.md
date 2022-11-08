@@ -2,7 +2,7 @@
 
 I'm a recent graduate of the University of Denver's coding bootcamp for full-stack web development.  
 
-🔭 Burrent Project: Start/Sit deficit tracker for ESPN fantasy football leagues. Check it out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
+🔭 Current Project: Start/Sit deficit tracker for ESPN fantasy football leagues. Check it out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
 
 <!--
 **BrettMiller47/BrettMiller47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
