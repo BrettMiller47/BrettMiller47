@@ -4,7 +4,7 @@ My GitHub 🟩 may not show it, but I've been actively engaged in programming fo
 
 🔭 Current Project -- Start/Sit deficit tracker for ESPN fantasy football leagues. Check out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
 
-🤔 I’m looking for help with running a web-scraper in the background to serve data to the client.  Selenium is my current scraper.
+🤔 I’m looking for help with running a web-scraper in the background to serve data to the client.  Currently, I am using Selenium.
 
 📫 How to reach me: [brett.miller47@yahoo.com](mailto:brett.miller47@yahoo.com)
 
