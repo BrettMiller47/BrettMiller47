@@ -10,9 +10,11 @@ Current Goals:
 
 🔨 Build projects!
 
+
 Current Project:
 
 🏈 Start/Sit deficit tracker for ESPN fantasy football leagues. Check out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
+
 
 Other Info:
 
