@@ -2,6 +2,11 @@
 
 Although my GitHub 🟩 may not show it, I've been actively engaged in programming for years!  My coding origin story began with some R and Python in 2019 while I was at Penn State studying Supply Chain & Information Systems.  Later, during my two years at an Operations Leadership Program, I came to understand the speed reducing power of VBA for Excel.  In July 2022 I decided to focus on coding full-time and graduated the University of Denver's full-stack coding bootcamp in October.
 
+Current Goals:
+💼 Get a coding related job.
+📖 Improve coding best-practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
+🔨 Build projects!
+
 🔭 Current Project -- Start/Sit deficit tracker for ESPN fantasy football leagues. Check out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
 
 🤔 I’m looking for help with running a web-scraper in the background to serve data to the client.  Currently, I am using Selenium.
