@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Although my GitHub 🟩 may not show it, I've been actively engaged in programming for years!  My coding origin story began with some R and Python in 2019 while I was at Penn State studying Supply Chain & Information Systems.  Later, during my two years at an Operations Leadership Program, I came to understand the speed reducing power of VBA for Excel.  In July 2022 I decided to focus on coding full-time and graduated the University of Denver's full-stack coding bootcamp in October.
+Although my GitHub 🟩 may not show it, I've been actively engaged in programming for years!  My coding origin story began with some R and Python in 2019 while I was at Penn State studying Supply Chain & Information Systems.  Later, during my two years at an Operations Leadership Program, I came to understand the speed reducing power of VBA for Excel.  In July 2022, I decided to focus on coding full-time and graduated the University of Denver's full-stack coding bootcamp in October.
 
 Current Goals:
 
