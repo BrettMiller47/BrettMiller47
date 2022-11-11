@@ -4,8 +4,11 @@ Although my GitHub 🟩 may not show it, I've been actively engaged in programmi
 
 Current Goals:
 💼 Get a coding related job.
+
 📖 Improve coding best-practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
+
 🔨 Build projects!
+
 
 🔭 Current Project -- Start/Sit deficit tracker for ESPN fantasy football leagues. Check out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
 
