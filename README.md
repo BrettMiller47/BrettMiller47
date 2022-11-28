@@ -4,7 +4,7 @@ Although my GitHub 🟩 may not show it, I've been actively engaged in programmi
 
 Current Goals:
 
-💼 Get payed to code.
+💼 Be employed with a job that allows me to code.
 
 📖 Improve coding best-practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
 
