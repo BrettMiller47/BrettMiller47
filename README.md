@@ -8,7 +8,7 @@ Current Goals:
 
 📖 Improve PL SQL knowledge via Udemy course.
 
-📖 Improve coding best-practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
+📖 Improve coding best practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
 
 🔨 Build projects!
 
