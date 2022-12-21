@@ -6,8 +6,6 @@ Current Goals:
 
 💼 Receive a job offer that allows me to solve interesting problems.
 
-📖 Improve PL SQL knowledge via Udemy course.
-
 📖 Improve coding best practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
 
 🔨 Build projects!
@@ -17,6 +15,8 @@ Current Goals:
 Current Project:
 
 🏈 Start/Sit deficit tracker for ESPN fantasy football leagues. Check out the [repo](https://github.com/BrettMiller47/start-sit-deficit)!
+
+📖 Improve PL SQL knowledge via Udemy course. (not on Github)
 
 <br />
 
