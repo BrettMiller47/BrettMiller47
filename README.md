@@ -4,7 +4,9 @@ Although my GitHub 🟩 may not show it, I've been actively engaged in programmi
 
 Current Goals:
 
-💼 Be employed with a job that allows me to code.
+💼 Receive a job offer that allows me to solve interesting problems.
+
+📖 Improve PL SQL knowledge via Udemy course.
 
 📖 Improve coding best-practices.  I'm ~500 pages into _Code Complete_ by Steve McConnell.
 
